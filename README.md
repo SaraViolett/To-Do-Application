@@ -1,5 +1,5 @@
 Title: to_do_application
-About: Assignment in Module 1 of Coding Temple bootcamp. The follow where given as guidelines: 
+About: Assignment in Module 1 of Coding Temple bootcamp. The following were given as guidelines for the assignment: 
     User Interface (UI) and Storage Method 
         Build a simple Command Line Interface (CLI) that welcomes users and displays a menu with options to add, view, delete tasks, or quit the application 
         The tasks should be stored in a Python list
